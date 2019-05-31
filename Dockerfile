@@ -1,4 +1,4 @@
-FROM tiredofit/nginx-php-fpm:7.1-latest
+FROM xplodwild/nginx-php-fpm:latest
 MAINTAINER Dave Conroy <dave at tiredofit dot ca>
 
 
